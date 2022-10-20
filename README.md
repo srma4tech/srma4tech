@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srma4tech
-- 👀 I’m interested in writing websites code
-- 🌱 I’m currently learning Azure, MERN
+- 👀 I’m interested in writing code
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 I am always available at srmag1295@gmail.com
 
