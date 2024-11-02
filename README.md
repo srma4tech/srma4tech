@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srma4tech
 - 👀 I’m interested in writing code
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Full Stack Development
+- 🌱 I’m currently working as an AEM Backend Developer
+- 💞️ I’m looking to collaborate on AEM Full Stack Development
 - 📫 I am always available at srmag1295@gmail.com
 
 <!---
