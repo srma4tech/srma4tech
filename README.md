@@ -13,16 +13,10 @@ My work emphasizes maintainable code, scalable patterns, and real-world usabilit
 Here are my GitHub Pages deployments (click to view):
 
 🔹 **GitPath — Interactive Git Learning Tool**  
-👉 https://srma4tech.github.io/GitPath
+👉 https://srma4tech.github.io/GitaPath
 
 🔹 **Digital-Mantra — Concept Web Presence**  
 👉 https://srma4tech.github.io/digital-mantra-japa
-
-🔹 **Online OCR & Image-to-Text Tool**  
-👉 https://srma4tech.github.io/online-ocr-image-to-text
-
-🔹 **Device Compare — Prototype Web App**  
-👉 https://srma4tech.github.io/device-compare
 
 🔹 **Free Online Tools Collection**  
 👉 https://srma4tech.github.io/UtilStack
