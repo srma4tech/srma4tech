@@ -16,7 +16,7 @@ Here are my GitHub Pages deployments (click to view):
 👉 https://srma4tech.github.io/GitPath
 
 🔹 **Digital-Mantra — Concept Web Presence**  
-👉 https://srma4tech.github.io/digital-mantra
+👉 https://srma4tech.github.io/digital-mantra-japa
 
 🔹 **Online OCR & Image-to-Text Tool**  
 👉 https://srma4tech.github.io/online-ocr-image-to-text
@@ -25,7 +25,7 @@ Here are my GitHub Pages deployments (click to view):
 👉 https://srma4tech.github.io/device-compare
 
 🔹 **Free Online Tools Collection**  
-👉 https://srma4tech.github.io/free-online-tools
+👉 https://srma4tech.github.io/UtilStack
 
 > 📌 All above URLs assume GitHub Pages is enabled on the `main` branch. If you’re using a different branch (e.g., `gh-pages`), adjust the repository settings accordingly.
 
